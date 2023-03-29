@@ -1,0 +1,6 @@
+D:\SwitchCorridors\Civil3DCustomUtilities\SwitchCorridor\bin\Debug\SwitchCorridor.dll
+D:\SwitchCorridors\Civil3DCustomUtilities\SwitchCorridor\bin\Debug\SwitchCorridor.pdb
+D:\SwitchCorridors\Civil3DCustomUtilities\SwitchCorridor\obj\Debug\SwitchCorridor.csproj.AssemblyReference.cache
+D:\SwitchCorridors\Civil3DCustomUtilities\SwitchCorridor\obj\Debug\SwitchCorridor.csproj.CoreCompileInputs.cache
+D:\SwitchCorridors\Civil3DCustomUtilities\SwitchCorridor\obj\Debug\SwitchCorridor.dll
+D:\SwitchCorridors\Civil3DCustomUtilities\SwitchCorridor\obj\Debug\SwitchCorridor.pdb
