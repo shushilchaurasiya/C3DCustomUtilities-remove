@@ -11,6 +11,6 @@ namespace ShushilC3DUtilities.Models
     {
         public string Name { get; set; }
         public ObjectId ObjectId { get; set; }
-        public bool IsSwitchedOn { get; set; }
+        public bool VisibleState { get; set; }
     }
 }
